@@ -168,6 +168,8 @@ OSS provides an advantage in that it creates an open marketplace for providers o
 
 The flexibility of using OSS compel GC to meet user needs by modifying existing or creating new OSS. OSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
 
+Some OSS initiatives still rely solely on closed-source licensed server architecture to run, which can significantly limit the intended benefits of an Open Source First approach. When evaluating OSS solutions, one should factor the TCO (Total Cost of Ownership) of the entire operating environment, specifically extending their evaluation to include dependency with proprietary licensed servers.
+
 #### Support for the Local Economy and Communities
 
 Depending on the dynamics of a software industry in a particular locality, OSS use may better support local businesses in the area. Because OSS is openly available, distributable, and modifiable, a wider breadth of smaller “support service” businesses may provide commercial services. Rather than a single vendor providing the warranty and technical support, any competent local IT business can provide these services. Rather than a single vendor being the only party in a position to customize software, a local consulting or software development business can provide specialized versions of the software. This dynamic can directly contribute to Canadian economic growth.
